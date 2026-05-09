@@ -7,21 +7,14 @@ Bu proje:
 - LSTM
 - BERT
 - explainable AI
-taraflarını anlatacak.
 
 Özellikler
 -Text preprocessing
-
 -Tokenization
-
 -Sequence padding
-
 -LSTM classification
-
 -External news prediction
-
 -Confusion matrix evaluation
-
 -Attention visualization (future work)
 
 Dataset
