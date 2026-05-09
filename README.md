@@ -31,9 +31,10 @@ Technologies used:
 - Attention visualization for explainable AI (XAI)
 - Trained model saving and reusable inference pipeline
 
-Dataset
+##Dataset
 https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
 
+##RESULTS
 LSTM-Results
 <img width="1772" height="1427" alt="lstm_confusion_matrix" src="https://github.com/user-attachments/assets/3e0d67d2-c3fc-4185-8de1-53755776f66a" />
 
@@ -41,8 +42,7 @@ LSTM-Results
 
 <img width="2400" height="1500" alt="lstm_external_test_result" src="https://github.com/user-attachments/assets/2ec78372-c8f7-440f-b07f-07e66a4eca31" />
 
-
-Future improvements
+##Future improvements
 - Fine-tuned BERT
 - Attention visualization
 - Streamlit UI
