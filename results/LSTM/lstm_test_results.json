@@ -1,0 +1,17 @@
+{
+    "model": "LSTM",
+    "test_loss": 0.028151366859674454,
+    "test_accuracy": 0.995100200176239,
+    "total_test_samples": 8980,
+    "total_errors": 44,
+    "confusion_matrix": [
+        [
+            4664,
+            32
+        ],
+        [
+            12,
+            4272
+        ]
+    ]
+}

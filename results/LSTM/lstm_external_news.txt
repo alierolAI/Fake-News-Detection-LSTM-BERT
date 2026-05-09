@@ -1,0 +1,11 @@
+NASA announced Friday Janet Petro, center director for the agency’s Kennedy Space Center in Florida, is retiring.
+
+Prior to joining NASA, Petro worked in a variety of military and industry positions, ultimately beginning her career at the agency in 2007 and working her way up to center director, as well as serving as acting administrator from January to July 2025.
+
+“From the outset of her distinguished tenure at NASA, Janet has served as a profoundly influential leader, guiding both the agency and our Kennedy Space Center through some of the most significant transitions in our shared history, including playing a central role in reshaping NASA Kennedy into the nation’s premier multiuser spaceport,” said NASA Administrator Jared Isaacman. “As NASA has been charged, once again, with accomplishing the near impossible, I’m grateful for Janet for always embracing the challenge of discovering what could be and for pushing the boundaries to deliver the missions that enable NASA to lead the way into a new era of space.”
+
+
+1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 51ms/step
+Prediction: REAL
+Real probability: 0.99951744
+Fake probability: 0.0004825592
